@@ -13,3 +13,6 @@
 1.5 - download the package of `PostgreSQL` by running: `go get github.com/lib/pq`. This libs installs the PostgreSQL driver for Go’s database/sql standard package.
 <br>
 1.6 - download the package of `PostgreSQL` by running: `go get github.com/joho/godotenv `. This libs provides functionality to load environment variables from a .env file.
+<br>
+1.7 - download the Fiber package by running: `go get github.com/gofiber/fiber/v2`
+This library provides a fast and minimalist web framework for building APIs in Go.
